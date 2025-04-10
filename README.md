@@ -6,7 +6,6 @@
 This contains the dataset of Global Superstore dataset, a comprehensive record of sales transactions from a global online retailer based in New York. To draw out meaningful insights, I dived into the rich dataset using Power BI. 
  ### Power BI Concepts applied:
 - DAX
-- Calculated measure
 - Custom Column
 - Filters
 - Data Modelling
